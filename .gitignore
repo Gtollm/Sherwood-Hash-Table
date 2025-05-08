@@ -1,0 +1,13 @@
+/target/
+
+/doc/
+/target/doc/
+
+Cargo.lock
+
+*~
+*.rs.bk
+*.swp
+.DS_Store
+
+/target/criterion/
